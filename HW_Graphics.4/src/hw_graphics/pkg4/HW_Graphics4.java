@@ -36,7 +36,6 @@ class jframe extends JFrame
         gg.draw( new CubicCurve2D.Double(220, 330, 160, 350, 250,380 ,200 , 400));
         
         gg.draw( new CubicCurve2D.Double(485, 330, 540, 350, 450,380 ,500 , 400));
-        g.setColor(Color.BLACK);
     }
 }
 
