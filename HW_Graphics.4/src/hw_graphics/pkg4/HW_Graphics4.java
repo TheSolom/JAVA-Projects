@@ -25,16 +25,12 @@ class jframe extends JFrame
         g.setColor(Color.GREEN);
 
         int v[]={200,250,250,450,450,500};
-    
         int z[]={400,450,650,650,450,400};
         g.drawPolyline(v, z, 6);
         
         gg.draw(new QuadCurve2D.Double(205, 300, 180, 330, 220, 330) );
-        
         gg.draw(new QuadCurve2D.Double(500, 300, 525, 330, 485, 330) );
- 
         gg.draw( new CubicCurve2D.Double(220, 330, 160, 350, 250,380 ,200 , 400));
-        
         gg.draw( new CubicCurve2D.Double(485, 330, 540, 350, 450,380 ,500 , 400));
     }
 }
