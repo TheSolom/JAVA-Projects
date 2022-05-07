@@ -27,10 +27,9 @@ class jframe extends JFrame
 
         p.closePath();
       
-        gg.fill(p);
-        gg.setColor(Color.red);
-        g.fillOval(300, 250, 50, 50);
-        g.fillOval(450, 250, 50, 50);
+        gg.fill(p); 
+        gg.setColor(Color.black);
+        gg.draw(p);
     }
 }
 
