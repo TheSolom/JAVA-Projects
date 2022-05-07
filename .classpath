@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="3&amp;5Divisible/src"/>
+	<classpathentry kind="src" path="Area With Constant/src"/>
+	<classpathentry kind="src" path="CF_ I. Count Vowels/src"/>
+	<classpathentry kind="src" path="CF_A. Add/src"/>
+	<classpathentry kind="src" path="CF_A. Power Of Two/src"/>
+	<classpathentry kind="src" path="CF_A. Summation/src"/>
+	<classpathentry kind="src" path="CF_B. Let&apos;s Use Getline/src"/>
+	<classpathentry kind="src" path="CF_B. Print from 1 to N/src"/>
+	<classpathentry kind="src" path="CF_B. Print/src"/>
+	<classpathentry kind="src" path="CF_B. Searching/src"/>
+	<classpathentry kind="src" path="CF_C. Compare/src"/>
+	<classpathentry kind="src" path="CF_C. Print from N to 1/src"/>
+	<classpathentry kind="src" path="CF_C. Replacement/src"/>
+	<classpathentry kind="src" path="CF_C. Sum of Range/src"/>
+	<classpathentry kind="src" path="CF_C. Wonderful Number/src"/>
+	<classpathentry kind="src" path="CF_D. PositionsInArray/src"/>
+	<classpathentry kind="src" path="CF_D. Print Digits using Recursion/src"/>
+	<classpathentry kind="src" path="CF_D. Strings/src"/>
+	<classpathentry kind="src" path="CF_D. Xor/src"/>
+	<classpathentry kind="src" path="CF_E. Base Converssion/src"/>
+	<classpathentry kind="src" path="CF_E. Count/src"/>
+	<classpathentry kind="src" path="CF_E. LowestNumber/src"/>
+	<classpathentry kind="src" path="CF_E. Maximum Distinct Numbers/src"/>
+	<classpathentry kind="src" path="CF_EvenOddPositiveNegative/src"/>
+	<classpathentry kind="src" path="CF_F. Multiplication of Matrices/src"/>
+	<classpathentry kind="src" path="CF_F. Print Even Indices/src"/>
+	<classpathentry kind="src" path="CF_F. Way Too Long Words/src"/>
+	<classpathentry kind="src" path="CF_G. Conversion/src"/>
+	<classpathentry kind="src" path="CF_G. Max and MIN/src"/>
+	<classpathentry kind="src" path="CF_G. Pyramid/src"/>
+	<classpathentry kind="src" path="CF_G. Summation of its divisors/src"/>
+	<classpathentry kind="src" path="CF_H. GCD/src"/>
+	<classpathentry kind="src" path="CF_H. Good Or Bad/src"/>
+	<classpathentry kind="src" path="CF_H. N Times/src"/>
+	<classpathentry kind="src" path="CF_H. Sorting/src"/>
+	<classpathentry kind="src" path="CF_HardCompare/src"/>
+	<classpathentry kind="src" path="CF_I. Divisability/src"/>
+	<classpathentry kind="src" path="CF_I. Palindrome/src"/>
+	<classpathentry kind="src" path="CF_I. SmallestPair/src"/>
+	<classpathentry kind="src" path="CF_I. Swapping With Matrix/src"/>
+	<classpathentry kind="src" path="CF_I.G. Palindrome/src"/>
+	<classpathentry kind="src" path="CF_J. Average/src"/>
+	<classpathentry kind="src" path="CF_J. Count Letters/src"/>
+	<classpathentry kind="src" path="CF_J. LuckyArray/src"/>
+	<classpathentry kind="src" path="CF_J. Prime Factors/src"/>
+	<classpathentry kind="src" path="CF_J. PrimesFrom1TOn/src"/>
+	<classpathentry kind="src" path="CF_K. Combination and Permutation/src"/>
+	<classpathentry kind="src" path="CF_K. I Love strings/src"/>
+	<classpathentry kind="src" path="CF_K. Max Number/src"/>
+	<classpathentry kind="src" path="CF_K. Shift Right/src"/>
+	<classpathentry kind="src" path="CF_K. SumDigits/src"/>
+	<classpathentry kind="src" path="CF_L. MaxSubarray/src"/>
+	<classpathentry kind="src" path="CF_L. New Array/src"/>
+	<classpathentry kind="src" path="CF_L. Pascal Triangle/src"/>
+	<classpathentry kind="src" path="CF_L. String Functions/src"/>
+	<classpathentry kind="src" path="CF_L. Summation/src"/>
+	<classpathentry kind="src" path="CF_LuckyNumbers/src"/>
+	<classpathentry kind="src" path="CF_M. Distinct Numbers/src"/>
+	<classpathentry kind="src" path="CF_M. Divisible/src"/>
+	<classpathentry kind="src" path="CF_M. Lucky Numbers/src"/>
+	<classpathentry kind="src" path="CF_M. ReplaceMinMax/src"/>
+	<classpathentry kind="src" path="CF_M. Subsequence String/src"/>
+	<classpathentry kind="src" path="CF_M. Suffix Sum/src"/>
+	<classpathentry kind="src" path="CF_MathematicalExpression/src"/>
+	<classpathentry kind="src" path="CF_N. CheckCode/src"/>
+	<classpathentry kind="src" path="CF_N. Convert to Base/src"/>
+	<classpathentry kind="src" path="CF_N. Max Subsequence/src"/>
+	<classpathentry kind="src" path="CF_N. Shift Zeros/src"/>
+	<classpathentry kind="src" path="CF_N. Sum of a Matrix/src"/>
+	<classpathentry kind="src" path="CF_NumbersHistogram/src"/>
+	<classpathentry kind="src" path="cf_O. Big Add and Multiply/src"/>
+	<classpathentry kind="src" path="CF_O. Calculator/src"/>
+	<classpathentry kind="src" path="CF_O. Fibonacci/src"/>
+	<classpathentry kind="src" path="CF_O. FibonacciRecursion/src"/>
+	<classpathentry kind="src" path="CF_O. Sort String/src"/>
+	<classpathentry kind="src" path="CF_P. Count Words/src"/>
+	<classpathentry kind="src" path="CF_P. Factorial Digits/src"/>
+	<classpathentry kind="src" path="CF_P. Log2/src"/>
+	<classpathentry kind="src" path="CF_P. MinimizeNumber/src"/>
+	<classpathentry kind="src" path="CF_P. Shape1/src"/>
+	<classpathentry kind="src" path="CF_Q. 3n + 1 sequence/src"/>
+	<classpathentry kind="src" path="CF_Q. CoordinatesOfAPoint/src"/>
+	<classpathentry kind="src" path="CF_Q. CountSubarrays/src"/>
+	<classpathentry kind="src" path="CF_Q. Digits/src"/>
+	<classpathentry kind="src" path="CF_Q. Product/src"/>
+	<classpathentry kind="src" path="CF_Q. Reverse Words/src"/>
+	<classpathentry kind="src" path="CF_R. AgeInDays/src"/>
+	<classpathentry kind="src" path="CF_R. Distance points/src"/>
+	<classpathentry kind="src" path="CF_R. Palindrome Array/src"/>
+	<classpathentry kind="src" path="CF_R. PermutationWithArrays/src"/>
+	<classpathentry kind="src" path="CF_R. String Score/src"/>
+	<classpathentry kind="src" path="CF_S. Array Average/src"/>
+	<classpathentry kind="src" path="CF_S. Is Triangle/src"/>
+	<classpathentry kind="src" path="CF_S. Max Split/src"/>
+	<classpathentry kind="src" path="CF_S. SearchInMatrix/src"/>
+	<classpathentry kind="src" path="CF_SequenceOFNumbersAndSum/src"/>
+	<classpathentry kind="src" path="CF_Shape2_Pyramid/src"/>
+	<classpathentry kind="src" path="CF_SumOfConsecutiveOddNumbers/src"/>
+	<classpathentry kind="src" path="CF_T. Circle Task/src"/>
+	<classpathentry kind="src" path="CF_T. Combination/src"/>
+	<classpathentry kind="src" path="CF_T. Matrix/src"/>
+	<classpathentry kind="src" path="CF_T. URL/src"/>
+	<classpathentry kind="src" path="CF_TheBrothers/src"/>
+	<classpathentry kind="src" path="CF_TwoIntervals/src"/>
+	<classpathentry kind="src" path="CF_U. FloatOrInt/src"/>
+	<classpathentry kind="src" path="CF_U. Is B A SubSequenceOf A/src"/>
+	<classpathentry kind="src" path="CF_U. Knapsack/src"/>
+	<classpathentry kind="src" path="CF_U. New Words/src"/>
+	<classpathentry kind="src" path="CF_U. SomeSums/src"/>
+	<classpathentry kind="src" path="CF_U. Straight Line/src"/>
+	<classpathentry kind="src" path="CF_V. FrequencyArray/src"/>
+	<classpathentry kind="src" path="CF_V. PUM/src"/>
+	<classpathentry kind="src" path="CF_V. Replace Word/src"/>
+	<classpathentry kind="src" path="CF_V. Two Lines/src"/>
+	<classpathentry kind="src" path="CF_W. Circles/src"/>
+	<classpathentry kind="src" path="CF_W. Encrypt &amp; Decrypt Message/src"/>
+	<classpathentry kind="src" path="CF_W. MirrorArray/src"/>
+	<classpathentry kind="src" path="CF_W. Shape3/src"/>
+	<classpathentry kind="src" path="CF_X. 8 Neighbors/src"/>
+	<classpathentry kind="src" path="CF_X. Comparison/src"/>
+	<classpathentry kind="src" path="CF_X. Convert To Decimal 2/src"/>
+	<classpathentry kind="src" path="CF_X. Rectangle/src"/>
+	<classpathentry kind="src" path="CF_Y. Common Area/src"/>
+	<classpathentry kind="src" path="CF_Y. EasyFibonacci/src"/>
+	<classpathentry kind="src" path="CF_Y. Min Cost String/src"/>
+	<classpathentry kind="src" path="CF_Y. RangeSumQuery/src"/>
+	<classpathentry kind="src" path="CF_Y. TheLast2Digits/src"/>
+	<classpathentry kind="src" path="CF_Z. Clean Code/src"/>
+	<classpathentry kind="src" path="CF_Z. Three Numbers/src"/>
+	<classpathentry kind="src" path="CharConvertCase/src"/>
+	<classpathentry kind="src" path="Date_To_DayName/src"/>
+	<classpathentry kind="src" path="Day 6_Let&apos;sReview/src"/>
+	<classpathentry kind="src" path="Day3_IntroToConditionalStatements/src"/>
+	<classpathentry kind="src" path="Exam/src"/>
+	<classpathentry kind="src" path="FactorialProgram/src"/>
+	<classpathentry kind="src" path="Find_Gcd/src"/>
+	<classpathentry excluding="src/" kind="src" path="HW_Graphics.3"/>
+	<classpathentry kind="src" path="HW_Graphics.3/src"/>
+	<classpathentry kind="src" path="JavaAnagrams/src"/>
+	<classpathentry kind="src" path="JavaApplication1/src"/>
+	<classpathentry kind="src" path="JavaApplicationHW/src"/>
+	<classpathentry kind="src" path="JavaApplicationHW2/src"/>
+	<classpathentry kind="src" path="JavaCurrencyFormatter/src"/>
+	<classpathentry kind="src" path="JavaPrimalityTest/src"/>
+	<classpathentry kind="src" path="JavaStringReversePalindrome/src"/>
+	<classpathentry kind="src" path="JavaStringTokens/src"/>
+	<classpathentry kind="src" path="JavaSubstringComparisons/src"/>
+	<classpathentry kind="src" path="JOptionPane/src"/>
+	<classpathentry kind="src" path="LoanCalculator/src"/>
+	<classpathentry kind="src" path="MaxFourNumbers/src"/>
+	<classpathentry kind="src" path="MiniCalculator/src"/>
+	<classpathentry kind="src" path="OddSum/src"/>
+	<classpathentry kind="src" path="OnlineExam2/src"/>
+	<classpathentry kind="src" path="OnlineExam3/src"/>
+	<classpathentry kind="src" path="OnlineExams/src"/>
+	<classpathentry kind="src" path="PatternSyntaxChecker/src"/>
+	<classpathentry kind="src" path="PowerProg/src"/>
+	<classpathentry kind="src" path="ReadMiddleFromThreeNumbers/src"/>
+	<classpathentry kind="src" path="RectangleOOP/src"/>
+	<classpathentry kind="src" path="Revision OOP/src"/>
+	<classpathentry kind="src" path="Revision/src"/>
+	<classpathentry kind="src" path="StudentDegree/src"/>
+	<classpathentry kind="src" path="Summition.ch4Prog/src"/>
+	<classpathentry kind="src" path="Time/src"/>
+	<classpathentry kind="src" path="TwoMaxFourNumbers/src"/>
+	<classpathentry kind="lib" path="CF_G. Pyramid/dist/CF_G._Pyramid.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="CF_L. MaxSubarray/dist/CF_L._MaxSubarray.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="CF_R. String Score/dist/CF_R._String_Score.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="JavaStringReversePalindrome/dist/JavaStringReversePalindrome.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="TwoMaxFourNumbers/dist/TwoMaxFourNumbers.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="3&amp;5Divisible/build/classes"/>
+</classpath>
